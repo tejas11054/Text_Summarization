@@ -56,6 +56,8 @@ influence the organization product and services thus, management information sys
 comes in handy in supporting the process.
 
 Output Obtained:
+
+
 The component of an information system includes:
 a hardware which is used for input/output process and storage of data, software used
 to process data and also to instruct the hand-ware component, databases which is
